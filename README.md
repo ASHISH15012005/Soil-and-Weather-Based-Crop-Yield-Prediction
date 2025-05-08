@@ -48,17 +48,7 @@ Models were evaluated using:
 - Export predictions (CSV/PDF)  
 - SMOTE for class balancing  
 - Model persistence using Pickle
-
 ---
-
-## 📷 Screenshots
-
-### 🔘 Web App Interface
-![Web UI](https://your-image-link-if-any.png)
-
----
-
-## 🚀 How to Run
 
 ### 🔧 Requirements
 - Python 3.7+
